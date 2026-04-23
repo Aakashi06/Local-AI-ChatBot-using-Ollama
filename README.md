@@ -1,8 +1,5 @@
 # Local-AI-ChatBot-using-Ollama
 
-
-# 🤖 Local AI Chatbot using Ollama
-
 This project demonstrates how to run a local LLM (Gemma / Phi3) using Ollama and build a simple conversational chatbot in Python.
 
 ## 🚀 Features
